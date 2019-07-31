@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "My Site",
-    "currentPage": "page3.html",
+    "name": "dq portfolio 2",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -40,7 +40,9 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 90,
     "versionPublish": "4.10.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
